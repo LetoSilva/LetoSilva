@@ -1,16 +1,28 @@
-## Hi there 👋
+### Olá, eu sou Wellington Bezerra	(LetoSilva) 👋
 
-<!--
-**LetoSilva/LetoSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ **Atualmente Estudando** 
+ 
+ - Bacharelado em Ciência da Computação na [Uninter](https://www.uninter.com/).
+ 
+ - Análise e Desenvolvimento de Sistemas na [Descomplica](https://descomplica.com.br/).
+ <br>
+ <br>
+ 
+ **Atuação Profissional**
+ - Assistente Administrativo na [Chesf/Eletrobras](https://eletrobras.com/).
+ <br>
+ <br>
+ 
+ ### Estatísticas no GitHub ###
+ 
+ ![Minhas Estat](https://github-readme-stats.vercel.app/api?username=LetoSilva&show_icons=true&theme=dark)
+ 
+ ### Projetos em Destaque ###
+ 
+ -
+ -
+ -
+ 
+ ### Linguagens Mais Usadas ###
+ 
+ ![top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LetoSilva&layout=compact&theme=dark)
